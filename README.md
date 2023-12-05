@@ -1,3 +1,3 @@
 # Mybot
 
- Justminee
+ Justmine
