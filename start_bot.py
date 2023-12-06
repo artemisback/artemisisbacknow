@@ -1,7 +1,6 @@
 from basics import * #Importar modulo basics para manejar las respuestas a los comandos de 
 from config import * #Importar el Token
 import telebot #Para la Api de Telegram
-import time
 
 #Instanciar el Bot
 bot = telebot.TeleBot(telegram_token)
