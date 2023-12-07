@@ -1,4 +1,4 @@
-from basics import * #Importar modulo basics para manejar las respuestas a los comandos de 
+from basics import * #Importar modulo para manejar algunas respuestas
 from config import * #Importar el Token
 import telebot #Para la Api de Telegram
 
