@@ -1,5 +1,3 @@
 # Mybot
 
  Justmine
-
->HOla mundo!
