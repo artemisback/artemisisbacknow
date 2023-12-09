@@ -36,4 +36,4 @@ def handle_message(message):
 #Iniciar bot y mostrar estado en consola
 print('Bot a la escucha...')
 bot.infinity_polling()
-print('Bot apagado...')
+print('Bot fuera...')
