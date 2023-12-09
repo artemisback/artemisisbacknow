@@ -1,5 +1,6 @@
 # Carpetas
 __pycache__/
+/.vscode/
 
 # Archivos
 config.py
